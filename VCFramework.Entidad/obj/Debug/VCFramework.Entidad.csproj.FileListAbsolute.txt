@@ -4,3 +4,9 @@ C:\api_base\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.csp
 C:\api_base\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.csproj.CoreCompileInputs.cache
 C:\api_base\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.dll
 C:\api_base\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.pdb
+C:\WebApp.ApiBase\VCFramework.Entidad\bin\Debug\VCFramework.Entidad.dll
+C:\WebApp.ApiBase\VCFramework.Entidad\bin\Debug\VCFramework.Entidad.pdb
+C:\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.csprojAssemblyReference.cache
+C:\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.csproj.CoreCompileInputs.cache
+C:\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.dll
+C:\WebApp.ApiBase\VCFramework.Entidad\obj\Debug\VCFramework.Entidad.pdb

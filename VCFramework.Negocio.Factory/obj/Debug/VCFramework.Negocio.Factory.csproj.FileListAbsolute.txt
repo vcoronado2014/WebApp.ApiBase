@@ -7,3 +7,12 @@ C:\api_base\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Neg
 C:\api_base\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.csproj.CopyComplete
 C:\api_base\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.dll
 C:\api_base\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.pdb
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\bin\Debug\VCFramework.Negocio.Factory.dll
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\bin\Debug\VCFramework.Negocio.Factory.pdb
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\bin\Debug\VCFramework.Entidad.dll
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\bin\Debug\VCFramework.Entidad.pdb
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.csprojAssemblyReference.cache
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.csproj.CoreCompileInputs.cache
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.csproj.CopyComplete
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.dll
+C:\WebApp.ApiBase\VCFramework.Negocio.Factory\obj\Debug\VCFramework.Negocio.Factory.pdb
